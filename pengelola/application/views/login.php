@@ -8,7 +8,7 @@
 
         <link rel="shortcut icon" href="<?=IMAGES?>fav.png">
 
-        <title>Login | TEACHING FACTORY SMKN 1 CIAMIS</title>
+        <title>Login | LSP SMK BHAKTI KENCANA CIAMIS</title>
 
         <!-- Base Css Files -->
         <link href="<?=CSS?>bootstrap.min.css" rel="stylesheet" />
@@ -50,7 +50,7 @@
             <div class="panel panel-color panel-primary panel-pages">
                 <div class="panel-heading bg-img"> 
                     <div class="bg-overlay"></div>
-                    <h3 class="text-center m-t-10 text-white"> Log In to <strong>Teaching factory System</strong> </h3>
+                    <h3 class="text-center m-t-10 text-white"> Log In to <strong>LSP SMK BHAKTI KENCANA CIAMIS</strong> </h3>
                 </div> 
 
 

@@ -7,7 +7,7 @@
 		<!-- Favicon-->
 		<link rel="shortcut icon" href="<?=IMAGES?>fav.png">
 		<!-- Meta Keyword -->
-		<meta name="keywords" content="TEACHING FACTORY SMKN 1 CIAMIS">
+		<meta name="keywords" content="LSP SMK BHAKTI KENCANA CIAMIS">
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<?php
@@ -265,7 +265,7 @@
 				</div>
 				<div class="footer-bottom row align-items-center">
 					<p class="footer-text m-0 col-lg-8 col-md-12"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="<?=base()?>" target="_blank" style="color: white;">TEACHING FACTORY SMKN 1 CIAMIS</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="<?=base()?>" target="_blank" style="color: white;">LSP SMK BHAKTI KENCANA CIAMIS</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 					<div class="col-lg-4 col-md-12 footer-social">
 						<a href="#"><i class="fa fa-facebook"></i></a>
